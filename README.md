@@ -3,6 +3,7 @@
 > vue use jsx template
 > 本示例根据vue-cli 生成模版，修改了App.vue与Hello.vue，将文件格式改为js
 > 不能实现scoped css需要通过代码习惯来保证css正常工作
+> vue支持jsx使得其看起来更像react写法
 
 ## Build Setup
 
